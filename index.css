@@ -100,6 +100,7 @@ form{
      margin-top: -10%;
      padding-right: 150px;
      padding-top: 3rem;
+     color: black;
 
     }
  .detail2 button{
@@ -117,6 +118,62 @@ form{
     margin-top: -10%;
     padding-right: 150px;
     padding-top: 3rem;
+}
+.education{
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    padding: 30px;
+
+}
+.education h2{
+    color: white;
+    font-size: 20px;
+}
+
+
+}
+.education h3{
+    font-size: 18px;
+    font-weight: 800;
+}
+.education h4{
+    font-size:16px;
+
+}
+.education h5{
+    font-size: 15px;
+    color: gray;
+}
+.project1 h2{
+    font-size: 30px;
+    font-weight: 800;
+    padding-top: 20px;
+    padding-left: 20px;
+
+}
+.project1 h4{
+    font-size: 20px;
+    color: gray;
+    padding-left: 20px;
+}
+.project1 span{
+    font-size: 50px;
+    padding-left: 40px;
+}
+.project1 p{
+    font-size: 30px;
+    display: inline;
+    padding: 50px;
+}
+footer{
+    background-color: black;
+    padding: 40px;
+    text-decoration: none;
+    color: white;
+}
+footer a{
+    color: white;
 }
  
  
