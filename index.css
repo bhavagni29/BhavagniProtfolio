@@ -135,7 +135,7 @@ form{
     background-color: black;
     color: white;
     margin-top: 40px;
-    padding: 20px 0;
+    
     
     
 
@@ -144,7 +144,7 @@ form{
     color: white;
     font-size: 3vh;
     text-align:left;
-    padding-left: 0px;
+    padding-left: 10px;
 }
 .education p{
     color:white;
@@ -171,7 +171,6 @@ form{
 .project1 h2{
     font-size: 30px;
     font-weight: 800;
-    padding-top: 20px;
     padding-left: 20px;
 
 }
