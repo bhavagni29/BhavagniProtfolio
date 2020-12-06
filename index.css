@@ -14,7 +14,7 @@
 .personal{
     background-color: chocolate;
     text-decoration: none;
-    font-size: 5vh;
+    font-size: 4vh;
     margin-left: 20px;
     margin-right: 20px;
     
@@ -22,12 +22,12 @@
 .mailme{
     color: white;
     text-decoration: none;
-    font-size: 5vh;
+    font-size: 4vh;
     
 
 }
 .personal h5{
-    font-size: 4vh;
+    font-size: 3vh;
     padding-right:140px;
     text-align: right;
 }
@@ -55,7 +55,7 @@ form{
  }
  .detail1 h1{
      color: #000000;
-     font-size:10vh;
+     font-size:8vh;
  }
  .detail1 h2{
      color: chocolate;
@@ -67,25 +67,23 @@ form{
  }
  span{
      font-weight: 800;
-     font-size: 5vh; 
+     font-size: 4vh; 
  }
- .detail2{
-     
- }
+
  .icons i{
      color: black;
      padding: 10px;
  }
  .detail2 h2{
    font-weight: 900;
-   font-size: 40px; 
+   font-size:4vh; 
    color: black; 
    padding: 0 20px;
    text-align:center;
 
  }
  .detail2 h4{
-     font-size: 25px;
+     font-size:3vh;
      color: gray;
      font-weight: 700;
      padding-left: 20px;
@@ -126,7 +124,7 @@ form{
 
  }
  .experience p{
-    font-size: 20px;
+    font-size: 3vh;
     padding-left: 10px;
     text-align:center;
     padding-top: 1rem;
@@ -135,16 +133,6 @@ form{
     background-color: black;
     color: white;
     margin-top: 40px;
-    
-    
-    
-
-}
-.education h2{
-    color: white;
-    font-size: 3vh;
-    text-align:left;
-    padding-left: 10px;
 }
 .education p{
     color:white;
@@ -153,7 +141,7 @@ form{
 
 }
 .education h3{
-    font-size: 18px;
+    font-size:5px;
     font-weight: 800;
     text-align: left;
     padding-left: 20px;
@@ -207,7 +195,7 @@ footer a{
   @media only screen and (min-width:360px) and (max-width:480px) {
       body{
           display:inline-block;
-          width: 95%;
+          width: 100%;
       }
      
  
