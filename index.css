@@ -192,6 +192,13 @@ footer a{
     width: 95%;
   }
   
+<<<<<<< HEAD
+=======
+  @media only screen and (min-width:360px) and (max-width:480px) {
+      body{
+          display: flex;
+      }
+>>>>>>> parent of 5d4d32d... media queries
      
  
  
