@@ -28,7 +28,7 @@
 }
 .personal h5{
     font-size: 4vh;
-    padding-right:160px;
+    padding-right:140px;
     text-align: right;
 }
 .detail1 img{
@@ -204,7 +204,7 @@ footer a{
     width: 100%;
   }
   
-  @media only screen and (min-width:360px) and (max-width:480px) {
+  @media only screen and (min-width:360px) and (max-width:400px) {
       body{
           display:inline-block;
       }
