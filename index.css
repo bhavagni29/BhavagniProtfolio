@@ -201,10 +201,10 @@ footer a{
 }
 /* For mobile phones: */
 [class*="col-"] {
-    width: 100%;
+    width: 95%;
   }
   
-  @media only screen and (min-width:360px) and (max-width:400px) {
+  @media only screen and (min-width:360px) and (max-width:480px) {
       body{
           display:inline-block;
       }
