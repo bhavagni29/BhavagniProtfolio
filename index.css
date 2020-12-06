@@ -192,7 +192,7 @@ footer a{
     width: 95%;
   }
   
-  @media only screen and (min-width:360px) and (max-width:480px) {
+  @media only screen and (min-width: 480px) and(max-width: 320px){
       body{
           display:inline-block;
       }
