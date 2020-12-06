@@ -79,9 +79,9 @@ form{
    font-weight: 900;
    font-size: 40px; 
    color: black; 
-   text-align: justify;
    padding-left: 10px;
    display: inline-block;
+   text-align: center;
  }
  .detail2 h4{
      font-size: 25px;
