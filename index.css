@@ -191,14 +191,11 @@ footer a{
 [class*="col-"] {
     width: 95%;
   }
-  
-<<<<<<< HEAD
-=======
-  @media only screen and (min-width:360px) and (max-width:480px) {
-      body{
-          display: flex;
-      }
->>>>>>> parent of 5d4d32d... media queries
+  @media only screen and (min-width: 320px) and(max-width: 400px){
+    body{
+        display:inline-block;
+    }
+
      
  
  
