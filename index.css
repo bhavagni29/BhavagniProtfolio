@@ -1,4 +1,6 @@
-
+body{
+    margin: auto;
+}
 #details{
     background-color:white;
     color:white;
@@ -195,8 +197,6 @@ footer a{
   @media only screen and (min-width:360px) and (max-width:480px) {
       body{
           display:inline-block;
-          margin-left: auto;
-          margin-right: auto;
       }
      
  
